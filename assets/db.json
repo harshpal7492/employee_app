@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "position": "Sr Manager",
+      "name": "Manish Mohan Kaushik",
+      "email": "manish.kaushik@walkingtree.tech",
+      "experience": "10+ years"
+    },
+    {
+      "position": "Asst Manager",
+      "name": "Shivangi Rai",
+      "email": "shivangi.rai@walkingtree.tech",
+      "experience": "5+ years"
+    },
+    {
+      "position": "Reporting Manager",
+      "name": "Sanjay Samuel Krishnan",
+      "email": "sanjay.krishnan@walkingtree.tech",
+      "experience": "20+ years"
+    },
+    {
+      "name": "Flutter Developers",
+      "position": "Flutter Developers"
+    }
+  ],
+  "details": [
+    {
+      "name": "Harsh Pal",
+      "email": "harsh.pal@walkingtree.tech",
+      "doj": "27 sep 2021",
+      "Designation": "Traniee Associate Software Engineer",
+      "EmpId": "21092004",
+      "contact": "+91-7037032227"
+    },
+    {
+      "name": "Rahul Kumar",
+      "email": "rahul.kumar@walkingtree.tech",
+      "doj": "27 sep 2021",
+      "Designation": "Traniee Associate Software Engineer",
+      "EmpId": "21092024",
+      "contact": "+91-9631421855"
+    },
+    {
+      "name": " Rajat Sharma",
+      "email": "rajat.sharma@walkingtree.tech",
+      "doj": "27 sep 2021",
+      "Designation": "Traniee Associate Software Engineer",
+      "EmpId": "2109205",
+      "contact": "+91-9358238083"
+    },
+    {
+      "name": "Rishav Johari",
+      "email": "rishav.johari@walkingtree.tech",
+      "doj": "27 sep 2021",
+      "Designation": "Traniee Associate Software Engineer",
+      "EmpId": "21092020",
+      "contact": "+91-8057353933"
+    },
+    {
+      "name": "Sachin Kumar",
+      "email": "sachin.pathak@walkingtree.tech",
+      "doj": "27 sep 2021",
+      "Designation": "Traniee Associate Software Engineer",
+      "EmpId": "21092009",
+      "contact": "+91-9837570556"
+    },
+    {
+      "name": "Shreyash Chaturvedi",
+      "email": "shreyash.chaturvedi@walkingtree.tech",
+      "doj": "27 sep 2021",
+      "Designation": "Traniee Associate Software Engineer",
+      "EmpId": "21092007",
+      "contact": "+91-9045430375"
+    }
+  ]
+}
